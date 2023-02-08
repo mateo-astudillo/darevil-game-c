@@ -1,6 +1,6 @@
 Programa basado en un reto de programacion del torneo organizado por la Universidad Nacional de Villa Mercedes
 
-![Screenshot of program](https://github.com/mateo-astudillo/darevil-game-c/img/screen.png)
+![Screenshot of program](https://github.com/mateo-astudillo/darevil-game-c/blob/main/img/screen.png)
 
 # Consigna Original
 
